@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My App</string>
+    <string name="top_bar_title">My App</string>
+    <string name="bottom_bar_text">© 2026 My App</string>
+    <string name="fab_clicked">FAB Clicked!</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="login_toast">Login: %1$s</string>
+    <string name="button_pressed">Button Pressed!</string>
+    <string name="welcome_title">Welcome to My App</string>
+    <string name="welcome_description">This is a Scaffold demo with TopAppBar, BottomAppBar, and a FAB.</string>
+    <string name="click_me">Click Me</string>
+    <string name="sample_image_desc">Sample image</string>
+</resources>

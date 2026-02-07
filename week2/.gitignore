@@ -1,0 +1,26 @@
+*.iml
+.gradle/
+/local.properties
+local.properties
+
+# IDE - Android Studio / IntelliJ
+.idea/
+
+# Build outputs
+/build/
+**/build/
+/captures
+
+# External native build
+.externalNativeBuild
+.cxx/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Kotlin
+.kotlin/
