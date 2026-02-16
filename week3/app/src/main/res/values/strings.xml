@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">week3</string>
+
+    <!-- Task1: State Demo -->
+    <string name="state_demo_title">State Demo</string>
+    <string name="state_demo_subtitle">Compare remember vs rememberSaveable</string>
+    <string name="remember_section_title">remember</string>
+    <string name="remember_explanation">remember keeps state during recomposition, but loses it on configuration change (e.g. screen rotation).</string>
+    <string name="saveable_section_title">rememberSaveable</string>
+    <string name="saveable_explanation">rememberSaveable keeps state across configuration changes by saving it in a Bundle.</string>
+    <string name="default_name">World</string>
+    <string name="name_input_label">Enter your name</string>
+    <string name="hello_name">Hello, %1$s!</string>
+    <string name="counter_text">Count: %1$d</string>
+    <string name="increment_button">+1</string>
+    <string name="reset_button">Reset</string>
+
+    <!-- Task2: Lifecycle Debug -->
+    <string name="lifecycle_debug_title">Lifecycle Debug</string>
+    <string name="lifecycle_debug_body">Open Logcat and filter by \"Task2Lifecycle\" to observe Activity lifecycle callbacks.</string>
+    <string name="navigate_to_exercises">Navigate to exercises:</string>
+
+    <!-- Task3: Navigation Demo -->
+    <string name="navigation_demo_title">Navigation Demo</string>
+    <string name="home_screen_welcome">Welcome to the Home Screen</string>
+    <string name="go_to_details">Go to Details</string>
+    <string name="detail_screen_title">Detail Screen</string>
+    <string name="back_button">Back</string>
+
+    <!-- Task4: Localization -->
+    <string name="localization_hint">Localization</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_description">This app demonstrates Android localization.</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="username_label">Username</string>
+    <string name="login_button">Login</string>
+    <string name="cancel_button">Cancel</string>
+</resources>

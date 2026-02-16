@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">viikko3</string>
+
+    <!-- Task1: State Demo -->
+    <string name="state_demo_title">Tilan esittely</string>
+    <string name="state_demo_subtitle">Vertaa remember vs rememberSaveable</string>
+    <string name="remember_section_title">remember</string>
+    <string name="remember_explanation">remember säilyttää tilan uudelleenkoostamisen aikana, mutta menettää sen kokoonpanomuutoksessa (esim. näytön kääntö).</string>
+    <string name="saveable_section_title">rememberSaveable</string>
+    <string name="saveable_explanation">rememberSaveable säilyttää tilan kokoonpanomuutosten yli tallentamalla sen Bundleen.</string>
+    <string name="default_name">Maailma</string>
+    <string name="name_input_label">Kirjoita nimesi</string>
+    <string name="hello_name">Hei, %1$s!</string>
+    <string name="counter_text">Laskuri: %1$d</string>
+    <string name="increment_button">+1</string>
+    <string name="reset_button">Nollaa</string>
+
+    <!-- Task2: Lifecycle Debug -->
+    <string name="lifecycle_debug_title">Elinkaaren virheenkorjaus</string>
+    <string name="lifecycle_debug_body">Avaa Logcat ja suodata \"Task2Lifecycle\" nähdäksesi Activityn elinkaaren kutsut.</string>
+    <string name="navigate_to_exercises">Siirry harjoituksiin:</string>
+
+    <!-- Task3: Navigation Demo -->
+    <string name="navigation_demo_title">Navigoinnin esittely</string>
+    <string name="home_screen_welcome">Tervetuloa aloitusnäyttöön</string>
+    <string name="go_to_details">Siirry tietoihin</string>
+    <string name="detail_screen_title">Tietonäyttö</string>
+    <string name="back_button">Takaisin</string>
+
+    <!-- Task4: Localization -->
+    <string name="localization_hint">Lokalisointi</string>
+    <string name="welcome_title">Tervetuloa</string>
+    <string name="welcome_description">Tämä sovellus esittelee Androidin lokalisointia.</string>
+    <string name="welcome_back">Tervetuloa takaisin!</string>
+    <string name="username_label">Käyttäjänimi</string>
+    <string name="login_button">Kirjaudu</string>
+    <string name="cancel_button">Peruuta</string>
+</resources>
