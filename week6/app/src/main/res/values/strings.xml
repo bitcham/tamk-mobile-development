@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cat Facts</string>
+    <string name="screen_title">Cat Fact Finder</string>
+    <string name="screen_subtitle">One screen, one ViewModel, one Retrofit call.</string>
+    <string name="fact_card_title">Random cat fact</string>
+    <string name="source_label">Source: catfact.ninja</string>
+    <string name="loading_message">Loading a fresh fact from the REST API...</string>
+    <string name="reload_button">Load another fact</string>
+    <string name="error_title">Something went wrong</string>
+    <string name="error_loading_fact">The fact could not be loaded. Check your connection and try again.</string>
+    <string name="fact_length">Length: %1$d characters</string>
+    <string name="empty_state">Tap the button to load a cat fact.</string>
+</resources>
+
